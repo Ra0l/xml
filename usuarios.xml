@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <usuarios>
+        <usuario>
+            <usuarioid>1</usuarioid>
+            <nombre>Raul Aliaga</nombre>
+            <twiter>raulaliaga</twiter>
+        </usuario>
+
+        <usuario>
+            <usuarioid>2</usuarioid>
+            <nombre>Marisol Baquerizo</nombre>
+            <twiter>raulaliaga</twiter>
+        </usuario>
+
+        <usuario>
+            <usuarioid>3</usuarioid>
+            <nombre>Cecilia Andrea</nombre>
+            <twiter>raulaliaga</twiter>
+        </usuario>
+
+        <usuario>
+            <usuarioid>4</usuarioid>
+            <nombre>Raul Freddy</nombre>
+            <twiter>raulaliaga</twiter>
+        </usuario>
+
+        <usuario>
+            <usuarioid>5</usuarioid>
+            <nombre>Carlos Galarza</nombre>
+            <twiter>raulaliaga</twiter>
+        </usuario>
+
+        <usuario>
+            <usuarioid>6</usuarioid>
+            <nombre>Gustavo Galarza</nombre>
+            <twiter>raulaliaga</twiter>
+        </usuario>
+    </usuarios>
